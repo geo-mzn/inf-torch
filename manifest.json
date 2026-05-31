@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Infinite Torches",
+    "description": "Adds an infinite torch, made by §4§lGeomznMCyt§r\nBehavior pack only lol",
+    "uuid": "cec9672e-d52e-46db-8736-7df46cbbfd23",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "d468b257-3d08-4320-a410-7dfa4af69420",
+      "version": [1, 0, 0]
+    }
+  ]
+}

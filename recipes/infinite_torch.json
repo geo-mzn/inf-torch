@@ -1,0 +1,36 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "torch:torch_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "DID",
+      "TTT",
+      "BGB"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:diamond"
+      },
+      "I": {
+        "item": "minecraft:enchanted_book"
+      },
+      "T": {
+        "item": "minecraft:torch"
+      },
+      "B": {
+        "item": "minecraft:blaze_powder"
+      },
+      "G": {
+        "item": "minecraft:glowstone_dust"
+      }
+    },
+    "result": {
+      "item": "torch:inf_torch"
+    }
+  }
+}
